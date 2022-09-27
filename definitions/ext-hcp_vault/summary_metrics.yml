@@ -1,7 +1,7 @@
 totalLoginRequests:
   goldenMetric: totalLoginRequests
   title: Total Login Requests
-  unit: COUNT
+  unit: COUNT 
   query:
     select: count(vault_core_handle_login_request)
     from: Metric

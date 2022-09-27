@@ -15,7 +15,7 @@ synthesis:
     instrumentation.name:
     cluster:
     newrelic.source:
-    prometheus_server:
+    prometheus_server: 
 
 dashboardTemplates:
   newRelic:
